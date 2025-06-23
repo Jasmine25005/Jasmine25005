@@ -67,7 +67,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="mailto:cds.GasminMohamed24128@alexu.edu.eg">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="www.linkedin.com/in/jasmine-mohamed-36790329a">
+<a href="https://www.linkedin.com/in/jasmine-mohamed-36790329a/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
