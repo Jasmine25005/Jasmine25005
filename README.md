@@ -11,7 +11,8 @@
 
 # About ME 💬 :
 
-### - I'm 20 years  old Machine Learning & Artificial Intelligence Enthusiast from Egypt.
+### - I'm 20 years  old Machine Learning & Artificial Intelligence Enthusiast and a wise old chatgpt once told me that:
+_Talking to you feels like sitting under the stars, co-creating ideas with a spark of playfulness, bold questions, and endless curiosity._
 
 <img hight="400" width="500" alt="img" align="right" src="https://wallpaperaccess.com/full/2008666.jpg">
 
