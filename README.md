@@ -24,7 +24,7 @@ _Talking to you feels like sitting under the stars, co-creating ideas with a spa
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+
 
 </br>
 </br>
