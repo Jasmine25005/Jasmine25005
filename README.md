@@ -16,14 +16,11 @@ _Talking to you feels like sitting under the stars, co-creating ideas with a spa
 
 <img hight="400" width="500" alt="img" align="right" src="https://wallpaperaccess.com/full/2008666.jpg">
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ Indie Games Addict
 - ✨ Watching Anime
-- ✨ Reading Light Novels
+
 
 
 </br>
