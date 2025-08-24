@@ -132,12 +132,4 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 </table>
 </p>
 
-<!-- Trophies Section -->
-
-<h2>🏆 Trophies</h2>
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Jasmine25005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</a>
-</p>
 
