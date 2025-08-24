@@ -1,17 +1,17 @@
-<h1 align="center">Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30"/>, I'm Jasmine Fahmy 👩‍💻</h1>
+<h1 align="center">السلام عليكم <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30"/>, I'm Jasmine </h1>
 <h3 align="center">A Machine Learning Engineer & Data Science student passionate about building AI-powered solutions.</h3>
 
 <!-- Social Links -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jasmine-mohamed-36790329a/" target="_blank">
+<a href="https://www.linkedin.com/in/jasmine-m-fahmy/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Jasmine_Fahmy-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.kaggle.com/jasminemohamed2545" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
 </a>
 <!-- 💡 Important: Replace '#' with your actual Linktree URL -->
-<a href="#" target="_blank">
+<a href="https://linktr.ee/JessyM25" target="_blank">
 <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge" />
 </a>
 </p>
