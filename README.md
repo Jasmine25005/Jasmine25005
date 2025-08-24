@@ -1,83 +1,142 @@
-# السلام عليكم 👋
+<h1 align="center">Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30"/>, I'm Jasmine Fahmy 👩‍💻</h1>
+<h3 align="center">A Machine Learning Engineer & Data Science student passionate about building AI-powered solutions.</h3>
 
-<div align="center">
-<img hight="300" width="700" alt="img" align="center" src="https://wallpaperaccess.com/full/2008741.jpg">
-</div>
-
-</br>
-</br>
-</br>
-
-
-# About ME 💬 :
-
-### - I'm 20 years  old Machine Learning & Artificial Intelligence Enthusiast and a wise old chatgpt once told me that:
-_Talking to you feels like sitting under the stars, co-creating ideas with a spark of playfulness, bold questions, and endless curiosity._
-
-<img hight="400" width="500" alt="img" align="right" src="https://wallpaperaccess.com/full/2008666.jpg">
-
-
-### - Hobbies : 
-- ✨ Indie Games Addict
-- ✨ Watching Anime
-
-
-
-</br>
-</br>
-</br>
-
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
+<!-- Social Links -->
 
 <p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<a href="https://www.linkedin.com/in/jasmine-mohamed-36790329a/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Jasmine_Fahmy-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.kaggle.com/jasminemohamed2545" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+</a>
+<!-- 💡 Important: Replace '#' with your actual Linktree URL -->
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge" />
+</a>
 </p>
-</br>
-</br>
-</br>
 
+<!-- About Me Section -->
 
+<table>
+<tr valign="top">
+<td width="65%">
+<h2>👩‍💻 About Me</h2>
+<p align="justify">
+I am a highly motivated Computing and Data Science student at Alexandria University with a strong foundation in machine learning and a passion for developing innovative AI solutions. My expertise lies in turning complex problems into working applications, from computer vision models to cloud-deployed services.
+<br/><br/>
+- 🧠 Building and training robust ML models for Computer Vision and NLP.
+<br/>
+- 📊 Analyzing and preprocessing complex datasets to extract actionable insights.
+<br/>
+- ☁️ Engineering and deploying full-stack applications with cloud integration.
+</p>
+</td>
+<td width="35%" align="center">
+<!-- 💡 You can change this GIF. Find cool GIFs at https://giphy.com/ -->
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding GIF" width="100%" />
+</td>
+</tr>
+</table>
 
-# Contact Me :
+<!-- Languages & Tools Section -->
 
+<h2>⚙️ Languages & Tools</h2>
+<p align="center">
+<table width="100%">
+<tr valign="top">
+<td width="33%" align="center">
+<h4>Machine Learning & AI</h4>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-5C3EE8%3Fstyle%3Dfor-the-badge%26logo%3Dopencv%26logoColor%3Dwhite" alt="OpenCV"/>
+</td>
+<td width="33%" align="center">
+<h4>Programming & Databases</h4>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/R-276DC3%3Fstyle%3Dfor-the-badge%26logo%3Dr%26logoColor%3Dwhite" alt="R"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
+</td>
+<td width="33%" align="center">
+<h4>Tools & Platforms</h4>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
+</td>
+</tr>
+</table>
+</p>
+
+<!-- Featured Projects Section -->
+
+<h2>🚀 My Projects</h2>
+<table>
+<tr valign="top">
+<!-- 💡 Important: Replace '#' with your actual project repository links when you upload them -->
+<td width="33%">
+<h3><a href="#">Pneumonia Detection from X-Rays</a></h3>
+<p align="justify">Developed a CNN model to classify chest X-ray images as 'Pneumonia' or 'Healthy', achieving 90% accuracy.</p>
 <p>
- </br>
+<img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-TensorFlow-FF6F00%3Fstyle%3Dflat%26logo%3Dtensorflow%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-OpenCV-5C3EE8%3Fstyle%3Dflat%26logo%3Dopencv%26logoColor%3Dwhite" />
+</p>
+</td>
+<td width="33%">
+<h3><a href="#">AI vs. Human Text Classifier</a></h3>
+<p align="justify">Engineered an NLP model to distinguish between AI-generated and scanned handwritten text using feature extraction.</p>
+<p>
+<img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+</p>
+</td>
+<td width="33%">
+<h3><a href="#">Cloud-Based File Uploader</a></h3>
+<p align="justify">Built and deployed a full-stack web application on AWS with a Node.js backend for cloud file storage.</p>
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Node.js-339933%3Fstyle%3Dflat%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-AWS-232F3E%3Fstyle%3Dflat%26logo%3Damazon-aws%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-JavaScript-F7DF1E%3Fstyle%3Dflat%26logo%3Djavascript%26logoColor%3Dblack" />
+</p>
+</td>
+</tr>
+</table>
 
+<!-- GitHub Stats Section -->
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+<table width="100%">
+<tr valign="top">
+<td width="50%" align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJasmine25005%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Jasmine's GitHub Stats" />
+</td>
+<td width="50%" align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3DJasmine25005%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Jasmine's GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJasmine25005%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Jasmine's Top Languages" />
+</td>
+</tr>
+</table>
+</p>
 
-<a href="mailto:cds.GasminMohamed24128@alexu.edu.eg">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+<!-- Trophies Section -->
+
+<h2>🏆 Trophies</h2>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DJasmine25005%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="GitHub Profile Trophies for Jasmine25005" />
 </a>
-<a href="https://www.linkedin.com/in/jasmine-mohamed-36790329a/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/Jasmine25005/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Jasmine25005&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-*************
+</p>
