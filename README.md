@@ -1,5 +1,5 @@
 <h1 align="center">السلام عليكم <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30"/>, I'm Jasmine </h1>
-<h3 align="center">A Machine Learning Engineer & Data Science student passionate about building AI-powered solutions.</h3>
+<h3 align="center">A Machine Learning Engineer & Data Science student passionate about building AI-powered solutions.</h3> 
 
 <!-- Social Links -->
 
