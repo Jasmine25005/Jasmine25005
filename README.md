@@ -91,8 +91,8 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 </p>
 </td>
 <td width="33%">
-<h3><a href="#">AI vs. Human Text Classifier</a></h3>
-<p align="justify">Engineered an NLP model to distinguish between AI-generated and scanned handwritten text using feature extraction.</p>
+<h3><a href="https://github.com/Jasmine25005/AI-vs.-Human-Text-Classifier/">AI vs. Human Text Classifier</a></h3>
+<p align="justify">Engineered an end-to-end NLP project to classify essays as either student-written or AI-generated. covering the complete ML workflow from EDA and text preprocessing with TF-IDF to model training (SVM, Neural Networks)</p>
 <p>
 <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
