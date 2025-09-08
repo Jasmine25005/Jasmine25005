@@ -82,13 +82,13 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 <tr valign="top">
 <!-- 💡 Important: Replace '#' with your actual project repository links when you upload them -->
 <td width="33%">
-<h3><a href="#">Pneumonia Detection from X-Rays</a></h3>
-<p align="justify">Developed a CNN model to classify chest X-ray images as 'Pneumonia' or 'Healthy', achieving 90% accuracy.</p>
-<p>
-<img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00%3Fstyle%3Dflat%26logo%3Dtensorflow%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/-OpenCV-5C3EE8%3Fstyle%3Dflat%26logo%3Dopencv%26logoColor%3Dwhite" />
-</p>
+  <h3><a href="https://github.com/Jasmine25005/AgroScanAI-Plant-Disease-Detection-with-Transfer-Learning">LeafVision: Plant Disease Classification</a></h3>
+  <p align="justify">Built an end-to-end deep learning pipeline to classify plant leaf images into 'Healthy', 'Powdery', and 'Rust'.</p>
+  <p>
+    <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  </p>
 </td>
 <td width="33%">
 <h3><a href="https://github.com/Jasmine25005/AI-vs.-Human-Text-Classifier/">AI vs. Human Text Classifier</a></h3>
