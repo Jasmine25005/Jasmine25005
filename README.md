@@ -34,7 +34,7 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 </td>
 <td width="35%" align="center">
 <!-- 💡 You can change this GIF. Find cool GIFs at https://giphy.com/ -->
-<img src="https://tenor.com/view/window-looking-out-the-window-cute-vapourwave-anime-gif-3496781547232565186.gif" alt="Coding GIF" width="100%", height=100%/>
+<img src="https://tenor.com/view/window-looking-out-the-window-cute-vapourwave-anime-gif-3496781547232565186.gif" alt="Coding GIF" width="300", height="2500"/>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 <tr valign="top">
 <!-- 💡 Important: Replace '#' with your actual project repository links when you upload them -->
 <td width="33%">
-  <h3><a href="https://github.com/Jasmine25005/AgroScanAI-Plant-Disease-Detection-with-Transfer-Learning">LeafVision: Plant Disease Classification</a></h3>
+  <h3><a href="https://github.com/Jasmine25005/AgroScanAI-Plant-Disease-Detection-with-Transfer-Learning">AgroScanAI: Plant Disease Classification</a></h3>
   <p align="justify">Built an end-to-end deep learning pipeline to classify plant leaf images into 'Healthy', 'Powdery', and 'Rust'.</p>
   <p>
     <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
