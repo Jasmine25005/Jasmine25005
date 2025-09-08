@@ -34,7 +34,7 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 </td>
 <td width="35%" align="center">
 <!-- 💡 You can change this GIF. Find cool GIFs at https://giphy.com/ -->
-<img src="https://tenor.com/view/window-looking-out-the-window-cute-vapourwave-anime-gif-3496781547232565186.gif" alt="Coding GIF" width="300", height="2500"/>
+<img src="https://tenor.com/view/window-looking-out-the-window-cute-vapourwave-anime-gif-3496781547232565186.gif" alt="Coding GIF" width="250", height="2500"/>
 </td>
 </tr>
 </table>
