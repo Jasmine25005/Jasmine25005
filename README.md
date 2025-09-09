@@ -100,16 +100,18 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 </p>
 </td>
 <td width="33%">
-<h3><a href="#">Cloud-Based File Uploader</a></h3>
-<p align="justify">Built and deployed a full-stack web application on AWS with a Node.js backend for cloud file storage.</p>
-<p>
-<img src="https://img.shields.io/badge/-Node.js-339933%3Fstyle%3Dflat%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/-AWS-232F3E%3Fstyle%3Dflat%26logo%3Damazon-aws%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E%3Fstyle%3Dflat%26logo%3Djavascript%26logoColor%3Dblack" />
-</p>
+  <h3><a href="https://github.com/Jasmine25005/BCI-EEG-Signal-Classification-Competition-Solution">EEG Brain Signal Classifier</a></h3>
+  <p align="justify">An end-to-end solution for the MTCAIC3, an official Brain-Computer Interface (BCI) competition held by the Egyptian government on Kaggle, classifying EEG signals for MI and SSVEP tasks.</p>
+  <p>
+    <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MNE--Python-4385BE?style=flat&logoColor=white" />
+  </p>
 </td>
 </tr>
 </table>
+
 
 <!-- GitHub Stats Section -->
 
