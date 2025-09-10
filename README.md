@@ -20,7 +20,7 @@
 
 <table>
 <tr valign="top">
-<td width="65%">
+<td width="62%">
 <h2>About Me</h2>
 <p align="justify">
 I am a highly motivated Computing and Data Science student at Alexandria University with a strong foundation in machine learning and a passion for developing innovative AI solutions. My expertise lies in turning complex problems into working applications, from computer vision models to cloud-deployed services.
@@ -32,7 +32,7 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 - ☁️ Engineering and deploying full-stack applications with cloud integration.
 </p>
 </td>
-<td width="35%" align="center">
+<td width="32%" align="center">
 <!-- 💡 You can change this GIF. Find cool GIFs at https://giphy.com/ -->
 <img src="https://tenor.com/view/window-looking-out-the-window-cute-vapourwave-anime-gif-3496781547232565186.gif" alt="Coding GIF" width="250", height="2500"/>
 </td>
@@ -45,7 +45,7 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 <p align="center">
 <table width="100%">
 <tr valign="top">
-<td width="33%" align="center">
+<td width="30%" align="center">
 <h4>Machine Learning & AI</h4>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -56,7 +56,7 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 
 </td>
-<td width="33%" align="center">
+<td width="30%" align="center">
 <h4>Programming & Databases</h4>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
@@ -66,7 +66,7 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
 </td>
-<td width="33%" align="center">
+<td width="30%" align="center">
 <h4>Tools & Platforms</h4>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -81,7 +81,7 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 <table>
 <tr valign="top">
 <!-- 💡 Important: Replace '#' with your actual project repository links when you upload them -->
-<td width="33%">
+<td width="30%">
   <h3><a href="https://github.com/Jasmine25005/AgroScanAI-Plant-Disease-Detection-with-Transfer-Learning">AgroScanAI: Plant Disease Classification</a></h3>
   <p align="justify">Built an end-to-end deep learning pipeline to classify plant leaf images into 'Healthy', 'Powdery', and 'Rust'.</p>
   <p>
@@ -90,7 +90,7 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
     <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" />
   </p>
 </td>
-<td width="33%">
+<td width="30%">
 <h3><a href="https://github.com/Jasmine25005/AI-vs.-Human-Text-Classifier/">AI vs. Human Text Classifier</a></h3>
 <p align="justify">Engineered an end-to-end NLP project to classify essays as either student-written or AI-generated. covering the complete ML workflow from EDA and text preprocessing with TF-IDF to model training (SVM, Neural Networks)</p>
 <p>
@@ -99,7 +99,7 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 </p>
 </td>
-<td width="33%">
+<td width="30%">
   <h3><a href="https://github.com/Jasmine25005/BCI-EEG-Signal-Classification-Competition-Solution">EEG Brain Signal Classifier</a></h3>
   <p align="justify">An end-to-end solution for the MTCAIC3, an official Brain-Computer Interface (BCI) competition held by the Egyptian government on Kaggle, classifying EEG signals for MI and SSVEP tasks.</p>
   <p>
@@ -117,12 +117,12 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-<table width="100%">
+<table width="80%">
 <tr valign="top">
-<td width="50%" align="center">
+<td width="40%" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jasmine25005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </td>
-<td width="50%" align="center">
+<td width="40%" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Jasmine25005&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
