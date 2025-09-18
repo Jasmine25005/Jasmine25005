@@ -114,7 +114,7 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 
 
 <!-- GitHub Stats Section -->
-
+<!---
 <h2>📊 GitHub Stats</h2>
 <p align="center">
 <table width="80%">
@@ -132,6 +132,6 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 </td>
 </tr>
 </table>
-</p>
+</p>-->
 
 
