@@ -1,8 +1,6 @@
 <h1 align="center">السلام عليكم <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30"/>, I'm Jasmine </h1>
 <h3 align="center">A Machine Learning Engineer & Data Science student passionate about building AI-powered solutions.</h3> 
 
-<!-- Social Links -->
-
 <p align="center">
 <a href="https://www.linkedin.com/in/jasmine-m-fahmy/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Jasmine_Fahmy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,32 +14,24 @@
 </a>
 </p>
 
-<!-- About Me Section -->
-
-<table>
-<tr valign="top">
-<td width="62%">
-<h2>About Me</h2>
-<p align="justify">
-I am a highly motivated Computing and Data Science student at Alexandria University with a strong foundation in machine learning and a passion for developing innovative AI solutions. My expertise lies in turning complex problems into working applications, from computer vision models to cloud-deployed services.
-<br/><br/>
-- 🧠 Building and training robust ML models for Computer Vision and NLP.
-<br/>
-- 📊 Analyzing and preprocessing complex datasets to extract actionable insights.
-<br/>
-- ☁️ Engineering and deploying full-stack applications with cloud integration.
+<p align="center">
+  <img src="https://tenor.com/view/window-looking-out-the-window-cute-vapourwave-anime-gif-3496781547232565186.gif"  alt ="GIF" width="40%"/>
 </p>
-</td>
-<td width="32%" align="center">
-<!-- 💡 You can change this GIF. Find cool GIFs at https://giphy.com/ -->
-<img src="https://tenor.com/view/window-looking-out-the-window-cute-vapourwave-anime-gif-3496781547232565186.gif" alt="Coding GIF" width="250", height="2500"/>
-</td>
-</tr>
-</table>
 
-<!-- Languages & Tools Section -->
+<br/>
 
-<h2>⚙️ Languages & Tools</h2>
+<h2>About Me 😎</h2>
+<p align="justify">
+I am a highly motivated <strong>Computing and Data Science student at Alexandria University</strong> with a strong foundation in machine learning and a passion for developing innovative AI solutions. My expertise lies in turning complex problems into working applications, from computer vision models to cloud-deployed services.
+<br/><br/>
+- 🧠 <strong>Building and training</strong> robust ML models for Computer Vision and NLP.
+<br/>
+- 📊 <strong>Analyzing and preprocessing</strong> complex datasets to extract actionable insights.
+<br/>
+- ☁️ <strong>Engineering and deploying</strong> full-stack applications with cloud integration.
+</p>
+
+<h2>Languages & Tools ⚙️</h2>
 <p align="center">
 <table width="100%">
 <tr valign="top">
@@ -75,12 +65,9 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 </table>
 </p>
 
-<!-- Featured Projects Section -->
-
-<h2>🚀 My Projects</h2>
+<h2>My Projects 🚀</h2>
 <table>
 <tr valign="top">
-<!-- 💡 Important: Replace '#' with your actual project repository links when you upload them -->
 <td width="30%">
   <h3><a href="https://github.com/Jasmine25005/AgroScanAI-Plant-Disease-Detection-with-Transfer-Learning">AgroScanAI: Plant Disease Classification</a></h3>
   <p align="justify">Built an end-to-end deep learning pipeline to classify plant leaf images into 'Healthy', 'Powdery', and 'Rust'.</p>
@@ -111,27 +98,3 @@ I am a highly motivated Computing and Data Science student at Alexandria Univers
 </td>
 </tr>
 </table>
-
-
-<!-- GitHub Stats Section -->
-<!---
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-<table width="80%">
-<tr valign="top">
-<td width="40%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jasmine25005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</td>
-<td width="40%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Jasmine25005&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmine25005&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-</td>
-</tr>
-</table>
-</p>-->
-
-
