@@ -9,8 +9,10 @@
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
 </a>
 
+<!--
 <a href="https://linktr.ee/JessyM25" target="_blank">
 <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge" />
+-->
 </a>
 </p>
 
