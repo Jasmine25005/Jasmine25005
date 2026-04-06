@@ -66,37 +66,64 @@ I am a highly motivated <strong>Computing and Data Science student at Alexandria
 </tr>
 </table>
 </p>
-
 <h2>My Projects 🚀</h2>
-<table>
-<tr valign="top">
-<td width="30%">
-  <h3><a href="https://github.com/Jasmine25005/AgroScanAI-Plant-Disease-Detection-with-Transfer-Learning">AgroScanAI: Plant Disease Classification</a></h3>
-  <p align="justify">Built an end-to-end deep learning pipeline to classify plant leaf images into 'Healthy', 'Powdery', and 'Rust'.</p>
-  <p>
-    <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" />
-  </p>
-</td>
-<td width="30%">
-<h3><a href="https://github.com/Jasmine25005/AI-vs.-Human-Text-Classifier/">AI vs. Human Text Classifier</a></h3>
-<p align="justify">Engineered an end-to-end NLP project to classify essays as either student-written or AI-generated. covering the complete ML workflow from EDA and text preprocessing with TF-IDF to model training (SVM, Neural Networks)</p>
-<p>
-<img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-</p>
-</td>
-<td width="30%">
-  <h3><a href="https://github.com/Jasmine25005/BCI-EEG-Signal-Classification-Competition-Solution">EEG Brain Signal Classifier</a></h3>
-  <p align="justify">An end-to-end solution for the MTCAIC3, an official Brain-Computer Interface (BCI) competition held by the Egyptian government on Kaggle, classifying EEG signals for MI and SSVEP tasks.</p>
-  <p>
-    <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MNE--Python-4385BE?style=flat&logoColor=white" />
-  </p>
-</td>
-</tr>
+<table width="100%">
+  <tr valign="top">
+    <td width="33.33%">
+      <h3><a href="https://github.com/Jasmine25005/Chat-with-Sunmarke-Agent">🏫 Voice-Enabled Multi-Model RAG Framework for an Educational Institution</a></h3>
+      <p align="justify">A production-ready, multi-model RAG voice agent. Features real-time voice-to-text (Whisper), TTS (ElevenLabs), and simultaneous evaluation of multiple LLMs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/-ChromaDB-4198D7?style=flat&logoColor=white" />
+      </p>
+    </td>
+    <td width="33.33%">
+      <h3><a href="https://github.com/Jasmine25005/BCI-EEG-Signal-Classification-Competition-Solution">🧠 EEG Brain Signal Classifier</a></h3>
+      <p align="justify">An end-to-end solution for the MTCAIC3, an official Brain-Computer Interface (BCI) competition held by the Egyptian government on Kaggle, classifying EEG signals.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/-MNE--Python-4385BE?style=flat&logoColor=white" />
+      </p>
+    </td>
+    <td width="33.33%">
+      <h3><a href="https://github.com/Jasmine25005/Doctory-AI-DEPI">🩺 Doctory AI: Multi-Modal Diagnosis</a></h3>
+      <p align="justify">A multi-modal AI system integrating deep learning (YOLOv11, VGG16) and ML models with an LLM conversational interface to deliver clear health insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="33.33%">
+      <h3><a href="https://github.com/Jasmine25005/AgroScanAI-Plant-Disease-Detection-with-Transfer-Learning">🌱 AgroScanAI: Plant Disease</a></h3>
+      <p align="justify">Built an end-to-end deep learning pipeline to classify plant leaf images into 'Healthy', 'Powdery', and 'Rust' using transfer learning.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" />
+      </p>
+    </td>
+    <td width="33.33%">
+      <h3><a href="https://github.com/Jasmine25005/AI-vs.-Human-Text-Classifier/">📝 AI vs. Human Text Classifier</a></h3>
+      <p align="justify">Engineered an end-to-end NLP project to classify essays as either student-written or AI-generated, covering text preprocessing with TF-IDF to model training.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+      </p>
+    </td>
+    <td width="33.33%">
+      <h3><a href="https://github.com/Jasmine25005/AITalents-Sales-Prediction">📈 AI Talents Sales Prediction</a></h3>
+      <p align="justify">End-to-end ML pipeline for the AI Talents League (ranked 31/109). Features extensive EDA, feature engineering, and a RandomForestRegressor to predict product sales.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
