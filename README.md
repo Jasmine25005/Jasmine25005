@@ -30,7 +30,7 @@ I am a highly motivated <strong>Computing and Data Science student at Alexandria
 <br/>
 - 📊 <strong>Analyzing and preprocessing</strong> complex datasets to extract actionable insights.
 <br/>
-- ☁️ <strong>Engineering and deploying</strong> full-stack applications with cloud integration.
+
 </p>
 
 <h2>Languages & Tools ⚙️</h2>
